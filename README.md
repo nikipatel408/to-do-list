@@ -1,2 +1,2 @@
 # to-do-list 
-A To-Do list that implements css, HTML, and JavaScript
+A To-Do list that implements HTML, CSS, and JavaScript 
